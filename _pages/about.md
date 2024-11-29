@@ -5,8 +5,8 @@ permalink: /
 subtitle: 📧 jaeyoon.choi (at) uci.edu     🎓 UC Irvine  📍 Irvine, CA
 
 profile:
-  align: right
   image: profile.jpg
+  align: right
   image_circular: false # crops the image to make it circular
   more_info: false
 
