@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 9
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+###  📊 UW Madison Learning Analytics Master Program
 
-Organize your courses by years, topics, or universities, however you like!
+I was one of the inaugural teaching assistants for the <a href='https://learninganalytics.education.wisc.edu/'>Online Learning Analytics Master’s Program (LAMP)</a> at the University of Wisconsin-Madison, where I interacted with students to support their understanding of theoretical and practical topics in learning analytics and contributed to the design of the curriculum and learning materials.
+
+#### Courses taught
+
+- EDPSYCH 560: Foundations of Qualitative and Quantitative Research Methods
+- EDPSYCH 525: Learning Analytics Theory and Practice
+- EDPSYCH 505: Fundamental Statistics in Learning Analytics
+- EDPSYCH 501: Thinking and Learning
+- EDPSYCH 551: Quantitative Ethnography
