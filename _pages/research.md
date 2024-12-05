@@ -20,7 +20,12 @@ As algorithms become more central to educational tool development and practices,
 
 My work aims to <span style="color: #b509ac; font-weight:bold;">identify and reduce bias in educational algorithms</span>. Under the guidance of Dr. Shamya Karumbaiah, I have been evaluating commonly used algorithmic bias mitigation strategies in the context of education, examining their limitations and exploring alternatives. I am particularly interested in how societal biases intertwine with statistical biases, potentially amplifying inequities.
 
+* **Choi, J.**, Karumbaiah, S., Matayoshi, J. (2025) Bias or Insufficient Sample Size? Improving Reliable Estimation of Algorithmic Bias for Minority Groups. Proceedings of the 15th International Learning Analytics and Kwowledge Conference (ACM LAK) [Accepted]
+
 ### 🛠️ Tools for Learning Analytics Research
 One of my research areas focuses on <span style="color: #b509ac; font-weight:bold;">developing computational tools for learning analytics research</span>. While many tools exist, they are often highly data-driven and emphasize quantitative data exclusively, leaving rich qualitative data collected from interviews or field studies overlooked.
 
 At UW-Madison, under the guidance of Dr. David Williamson Shaffer, I designed and developed tools that bridge qualitative and quantitative methods -- a framework known as <a href ='https://www.qesoc.org/'>Quantitative Ethnography</a>, such as Epistemic Network Analysis (ENA) and nCoder. Specifically, I led the design and development of an automated qualitative coding tool, nCoder+ (now called Codey). This tool aims to increase the transparency of automated qualitative coding processes while minimizing human coding effort for validation.
+
+* **Choi, J.**, Ruis, A. R., Cai, Z., Eagan, B., & Shaffer, D. W. (2023). Does Active Learning Reduce Human Coding?: A Systematic Comparison of Neural Network with nCoder. Fourth International Conference on Quantitative Ethnography 2022.
+[Nominated for the Best Paper Award]
