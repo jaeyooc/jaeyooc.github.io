@@ -20,7 +20,7 @@ As algorithms become more central to educational tool development and practices,
 
 My work aims to <span style="color: #b509ac; font-weight:bold;">identify and reduce bias in educational algorithms</span>. Under the guidance of Dr. Shamya Karumbaiah, I have been evaluating commonly used algorithmic bias mitigation strategies in the context of education, examining their limitations and exploring alternatives. I am particularly interested in how societal biases intertwine with statistical biases, potentially amplifying inequities.
 
-* **Choi, J.**, Karumbaiah, S., Matayoshi, J. (2025) Bias or Insufficient Sample Size? Improving Reliable Estimation of Algorithmic Bias for Minority Groups. Proceedings of the 15th International Learning Analytics and Kwowledge Conference (ACM LAK) [Accepted]
+* **Choi, J.**, Karumbaiah, S., Matayoshi, J. (2025) Bias or Insufficient Sample Size? Improving Reliable Estimation of Algorithmic Bias for Minority Groups. Proceedings of the 15th International Learning Analytics and Knowledge Conference (ACM LAK). [Accepted]
 
 ### 🛠️ Tools for Learning Analytics Research
 One of my research areas focuses on <span style="color: #b509ac; font-weight:bold;">developing computational tools for learning analytics research</span>. While many tools exist, they are often highly data-driven and emphasize quantitative data exclusively, leaving rich qualitative data collected from interviews or field studies overlooked.
@@ -29,3 +29,12 @@ At UW-Madison, under the guidance of Dr. David Williamson Shaffer, I designed an
 
 * **Choi, J.**, Ruis, A. R., Cai, Z., Eagan, B., & Shaffer, D. W. (2023). Does Active Learning Reduce Human Coding?: A Systematic Comparison of Neural Network with nCoder. Fourth International Conference on Quantitative Ethnography 2022.
 [Nominated for the Best Paper Award]
+
+* **Choi, J.**, Tan, Y., Eagan, B., & Shaffer, D.W. (May, 2023). Visualizing a Qualitative Data with the Epistemic Network Analysis (ENA). Research Analytics Series Workshop, Prince of Sonkla University, Thailand (Virtual).
+
+* **Choi, J.** & Cai, Z. (November, 2022). Introduction to Codey: Better, Faster, Fairer Qualitative Coding. Workshop hosted by the Penn Center for Learning Analytics (Virtual).
+
+* **Choi, J.**, Cai, Z., & Lee, S.B. (October, 2022). Introduction to Automated Coding: Codey. Workshop hosted by the Fourth International Conference on Quantitative Ethnography (ICQE22).
+
+* **Choi, J.**, Puetz, B., &  Siebert-Evenstone, A. (October, 2021). Introduction to Automated Coding: nCoder. Workshop hosted by the Third International Conference on Quantitative Ethnography (ICQE21).
+
