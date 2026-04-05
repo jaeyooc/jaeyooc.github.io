@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 
 profile:
-  image: jcprofile.jpg
+  image: jcprofile_n.jpg
   align: left
   image_circular: true
   more_info: >
