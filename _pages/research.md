@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-nav: true
+nav: false
 nav_order: 1
 ---
 My research interests are at the intersection of <span style="background-color: rgba(181, 9, 172, 0.05); color: #b509ac; padding: 2px 4px; border-radius: 3px;">learning sciences</span>, <span style="background-color: rgba(181, 9, 172, 0.05); color: #b509ac; padding: 2px 4px; border-radius: 3px;">educational data science</span>, and <span style="background-color: rgba(181, 9, 172, 0.05); color: #b509ac; padding: 2px 4px; border-radius: 3px;">algorithmic fairness</span>. I use data and modeling to explore how we learn and collaborate, while identifying and addressing biases that may arise in these processes.
